@@ -1,0 +1,26 @@
+Credit Card Fraud Detection
+
+Context:
+
+The datasets contains transactions made by credit cards in September 2013 by european cardholders.
+This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
+The financial companies need to recognize fraudulent credit card transactions to protect their customers.
+
+
+Criteria for success:
+Flagging a fraudulent transaction will protect the customers from being charged for the items that they did not purchase
+
+Scope of solution space
+An efficient model to flag out the fraudulent transactions and stopping the transaction from happening without a user confirmation will
+increase security
+
+Constraints:
+ The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions
+
+StakeHolders
+Bank Manager,
+customers of credit cards
+
+
+Key DataSources:
+single CSV file from kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud
