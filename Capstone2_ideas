@@ -1,0 +1,17 @@
+Predict Churning customers
+
+A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction
+
+Now, this dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features. 
+
+
+Fraud Detection
+
+Identify fraudulent credit card transactions.
+The datasets contains transactions made by credit cards in September 2013 by european cardholders.
+This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
+
+Jane Street Market Analysis:
+
+Predict stock market data provided by Jane Street. Objective is to build your own quantitative trading model to maximize returns using market data from a major global stock exchange and test the predictiveness of your models against future market returns 
